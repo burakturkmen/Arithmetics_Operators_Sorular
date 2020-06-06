@@ -11,7 +11,7 @@ public class a_Islem_Onceligi {
 
         3. Toplama ve Çıkarma işlemi
 
-        Not: Eğer aynı önceliğie sahip işlemler varsa SOLDAN SAĞA doğru yapılır.
+        Not: Eğer aynı önceliğe sahip işlemler varsa SOLDAN SAĞA doğru yapılır.
 
 
 
@@ -23,11 +23,11 @@ public class a_Islem_Onceligi {
 
 
 
-        Örnek =    2 + 2 * 2 =
+        Örnek =    2 + 2 * 2 = 6
 
-        Örnek =    2 / 2 * 2 =
+        Örnek =    2 / 2 * 2 = 2
 
-        Örnek =   2 * (2 + 2) =
+        Örnek =   2 * (4) = 8
 
 
 
